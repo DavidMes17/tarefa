@@ -3,5 +3,3 @@
 
 # tarefa-1
  primeira atividade do prof evaldo
-
-feito no github para mais capricho
