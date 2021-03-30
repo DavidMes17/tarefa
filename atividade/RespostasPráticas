@@ -1,0 +1,27 @@
+*RESPOSTAS PRÁTICAS*
+
+4 - Vamos por a mão na massa: Crie 4 variáveis, cada uma deve armazenar um tipo de dado diferente(Int, Float,String e  Boolean)
+```python
+
+ano = 2021 # Dado do tipo inteiro
+curso = "Informática" # Dado do tipo string
+altura = 1.80 # Dado do tipo float
+matri = true # Dado do tipo Booleano
+media = none # Dado com variável declarada, mas sem valor atribuído 
+
+```
+5 - Reproduza e resolva as equações utilizando Python. Lembre-se de fazer as devidas adaptações.
+- a) 6 x 73  + 310
+- b) 10 + 5 - 73- 8
+- c) (100030) + 34 x10020
+- d) л + 100
+```python
+
+
+a = 6 * 73 + 310
+b = 10 + 5 - 73 - 8
+c = 100030 + 34 x10020
+# л = 3,14
+d = 3,14 + 100
+
+```
