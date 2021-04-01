@@ -21,7 +21,7 @@ media = none # Dado com variável declarada, mas sem valor atribuído
 a = 6 * 73 + 310
 b = 10 + 5 - 73 - 8
 c = 100030 + 34 x10020
-# л = 3,14
-d = 3,14 + 100
+# л = 3.14
+d = 3.14 + 100
 
 ```
